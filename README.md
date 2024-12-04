@@ -7,6 +7,7 @@ Welcome to the Bank-Management-System project! This Java-based application allow
 # 📂 Project Structure
 - 'src/': Contains the Java source code files.
 - 'icon/': icon in action.
+- 'MYSQL/' .sql(Script File)
 
 # 📦 Features
 - User Registration & Login
